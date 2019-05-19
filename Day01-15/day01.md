@@ -160,4 +160,4 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## 2. 学习使用turtle在屏幕上绘制图形。
 
-![](.\assets\01-01.png)
+![](./assets/01-01.png)
