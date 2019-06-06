@@ -16,6 +16,7 @@
 
 基础示例:
 旋转图片并打开文件
+
 ```python
 from PIL import Image
 im = Image.open("bride.jpg")
@@ -66,9 +67,10 @@ image.filter(ImageFilter.CONTOUR)
 
 ### 图片缩放+拼接
 
-![52033d3768a0134ad9d690b8b1294d45.png](evernotecid://18A3C926-B76C-4495-83CC-83D4C0B01782/appyinxiangcom/5697895/ENResource/p2976)
+![52033d3768a0134ad9d690b8b1294d45.png](./assets/15-01.png)
 
 
 ### 滤镜
 
-![8bce711ff92368dc8ff975fc8a7fb878.png](evernotecid://18A3C926-B76C-4495-83CC-83D4C0B01782/appyinxiangcom/5697895/ENResource/p2977)
+![8bce711ff92368dc8ff975fc8a7fb878.png](./assets/15-02.png)
+
